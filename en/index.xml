@@ -5070,7 +5070,7 @@ Implement UserReadService, and deploy current implementation in the Provider&amp
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> java.combine(&lt;span style="color:#2aa198">&amp;#39;com.alibaba.dubbo.demo.UserRequest&amp;#39;&lt;/span>, {
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> id: &lt;span style="color:#dc322f">1&lt;/span>,
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> name&lt;span style="color:#719e07">:&lt;/span> &lt;span style="color:#2aa198">&amp;#39;nodejs&amp;#39;&lt;/span>,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> email&lt;span style="color:#719e07">:&lt;/span> &lt;span style="color:#2aa198">&amp;#39;node@qianmi.com&amp;#39;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> email&lt;span style="color:#719e07">:&lt;/span> &amp;#39;node&lt;span style="color:#268bd2">@qianmi&lt;/span>.com&amp;#39;,
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }),
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ];
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> },
